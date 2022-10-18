@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gym/static/css/main.3cb13972.css",
+    "main.js": "/Gym/static/js/main.538511be.js",
+    "static/js/787.4159b215.chunk.js": "/Gym/static/js/787.4159b215.chunk.js",
+    "index.html": "/Gym/index.html",
+    "main.3cb13972.css.map": "/Gym/static/css/main.3cb13972.css.map",
+    "main.538511be.js.map": "/Gym/static/js/main.538511be.js.map",
+    "787.4159b215.chunk.js.map": "/Gym/static/js/787.4159b215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb13972.css",
+    "static/js/main.538511be.js"
+  ]
+}
